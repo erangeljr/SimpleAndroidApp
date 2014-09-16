@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_Nexus5_API_19" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleAndroidApp/MainActivity.cs">
+    <Files>
+      <File FileName="SimpleAndroidApp/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="SimpleAndroidApp/CallHistoryActivity.cs" Line="86" Column="86" />
+      <File FileName="../../Box Sync/Xamarin/and101-intro-to-android-with-xamarin-studio/Lab Materials/Part 05 Resources/Part5.Start/Phoneword/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SimpleAndroidApp MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>
